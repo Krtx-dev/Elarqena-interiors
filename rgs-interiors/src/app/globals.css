@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-bg: #FAF9F6;
+  --color-brand-text: #1C1C1C;
+  --color-brand-walnut: #5C4033;
+  --color-brand-stone: #E5E3DB;
+  
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-playfair), ui-serif, Georgia, serif;
+}
+
+:root {
+  /* Controlled spacing scale */
+  --px-outer: clamp(1.5rem, 5vw, 4rem);
+  --section-py-tight: clamp(3.75rem, 6vw, 6.5rem);
+  --section-py: clamp(4.5rem, 7vw, 8rem);
+  --section-py-lg: clamp(5rem, 8vw, 9rem);
+  --max-w-content: 1536px;
+  
+  /* Fluid Typography */
+  --text-hero: clamp(4rem, 8.5vw, 9rem);
+  --text-display: clamp(3rem, 6.2vw, 6.75rem);
+  --text-section: clamp(2.5rem, 3.8vw, 4.25rem);
+}
+
+html.lenis, html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: var(--color-brand-bg);
+  color: var(--color-brand-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-sans {
+  font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+.font-serif {
+  font-family: var(--font-playfair), ui-serif, Georgia, serif;
+}
+
+/* Base selection color */
+::selection {
+  background-color: var(--color-brand-walnut);
+  color: var(--color-brand-bg);
+}
+
+/* Mask line for text reveals */
+.mask-line {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}

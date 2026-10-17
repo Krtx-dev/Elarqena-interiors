@@ -1,0 +1,342 @@
+- generic [active] [ref=f50e1]:
+  - main [ref=f50e2]:
+    - navigation [ref=f50e3]:
+      - generic [ref=f50e4]:
+        - generic [ref=f50e5]: RGS
+        - generic [ref=f50e6]: Interiors
+      - link "Start a Project" [ref=f50e8] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=f50e9]:
+      - generic:
+        - heading "Spaces, made personal." [level=1] [ref=f50e11]:
+          - generic [ref=f50e12]: Spaces,
+          - generic [ref=f50e14]: made personal.
+        - img "Premium Interior Design" [ref=f50e17]
+      - generic [ref=f50e19]:
+        - generic [ref=f50e20]: 4.9 Google Rating84 Reviews
+        - generic [ref=f50e21]: CoimbatoreMettupalayam • Pollachi
+        - link "Explore Projects" [ref=f50e23] [cursor=pointer]:
+          - /url: "#projects"
+    - generic [ref=f50e27]:
+      - heading "We don't design for a photo. We design for everyday life." [level=2] [ref=f50e28]:
+        - generic [ref=f50e29]: We don't design
+        - generic [ref=f50e31]: for a photo.
+        - generic [ref=f50e33]: We design for
+        - generic [ref=f50e35]: everyday life.
+      - paragraph [ref=f50e37]: Our approach focuses on the reality of how a space is used, prioritizing durability, functional flow, and precision craftsmanship alongside beautiful aesthetics.
+    - generic [ref=f50e39]:
+      - generic [ref=f50e40]:
+        - heading "Selected Work" [level=2] [ref=f50e41]
+        - link "View Gallery →" [ref=f50e42] [cursor=pointer]:
+          - /url: "#gallery"
+          - text: View Gallery
+          - generic [ref=f50e43]: →
+      - generic [ref=f50e44]:
+        - generic [ref=f50e45] [cursor=pointer]:
+          - img "MODULAR KITCHEN" [ref=f50e49]
+          - generic [ref=f50e50]:
+            - generic [ref=f50e51]: "01"
+            - heading "MODULAR KITCHEN" [level=3] [ref=f50e52]
+            - paragraph [ref=f50e53]: Coimbatore
+        - generic [ref=f50e54] [cursor=pointer]:
+          - generic [ref=f50e55]:
+            - generic [ref=f50e56]: "02"
+            - heading "WARDROBE SYSTEM" [level=3] [ref=f50e57]
+            - paragraph [ref=f50e58]: Mettupalayam
+          - img "WARDROBE SYSTEM" [ref=f50e62]
+        - generic [ref=f50e63] [cursor=pointer]:
+          - img "LIVING SPACE" [ref=f50e67]
+          - generic [ref=f50e68]:
+            - generic [ref=f50e69]: "03"
+            - heading "LIVING SPACE" [level=3] [ref=f50e70]
+            - paragraph [ref=f50e71]: Pollachi
+    - generic [ref=f50e73]:
+      - generic [ref=f50e74]:
+        - img "MODULAR KITCHENS" [ref=f50e76]
+        - generic [ref=f50e77]:
+          - generic [ref=f50e78]: 01 / 04
+          - heading "MODULAR KITCHENS" [level=3] [ref=f50e79]
+          - paragraph [ref=f50e80]: Custom kitchens designed around daily use, storage and durability.
+          - link "Explore Project ↗" [ref=f50e81] [cursor=pointer]:
+            - /url: "#gallery"
+      - generic [ref=f50e82]:
+        - img "CUSTOM WARDROBES" [ref=f50e84]
+        - generic [ref=f50e85]:
+          - generic [ref=f50e86]: 02 / 04
+          - heading "CUSTOM WARDROBES" [level=3] [ref=f50e87]
+          - paragraph [ref=f50e88]: Precision fitted storage systems to maximize your space.
+          - link "Explore Project ↗" [ref=f50e89] [cursor=pointer]:
+            - /url: "#gallery"
+      - generic [ref=f50e90]:
+        - img "LIVING SPACES" [ref=f50e92]
+        - generic [ref=f50e93]:
+          - generic [ref=f50e94]: 03 / 04
+          - heading "LIVING SPACES" [level=3] [ref=f50e95]
+          - paragraph [ref=f50e96]: Warm materials and seamless layouts for modern living.
+          - link "Explore Project ↗" [ref=f50e97] [cursor=pointer]:
+            - /url: "#gallery"
+      - generic [ref=f50e98]:
+        - img "COMMERCIAL" [ref=f50e100]
+        - generic [ref=f50e101]:
+          - generic [ref=f50e102]: 04 / 04
+          - heading "COMMERCIAL" [level=3] [ref=f50e103]
+          - paragraph [ref=f50e104]: Refined office and retail spaces built to perform.
+          - link "Explore Project ↗" [ref=f50e105] [cursor=pointer]:
+            - /url: "#gallery"
+    - generic [ref=f50e108]:
+      - generic [ref=f50e109]:
+        - img "Material Detail" [ref=f50e111]
+        - img "Wood Texture" [ref=f50e113]
+        - img "Hardware Detail" [ref=f50e115]
+      - generic [ref=f50e116]:
+        - generic [ref=f50e117]: Craftsmanship
+        - heading "Details make the difference." [level=2] [ref=f50e118]: Details makethe difference.
+        - generic [ref=f50e119]:
+          - paragraph [ref=f50e120]: From the precise selection of marine-grade core materials to the seamless alignment of soft-close hinges, true quality is found in the things you interact with every single day.
+          - paragraph [ref=f50e121]: We source premium laminates, durable edge-banding, and robust hardware to ensure that what looks beautiful today continues to perform flawlessly for years to come.
+    - generic [ref=f50e123]:
+      - generic [ref=f50e124]:
+        - heading "Our Services" [level=2] [ref=f50e126]
+        - generic [ref=f50e127]:
+          - generic [ref=f50e128] [cursor=pointer]:
+            - generic [ref=f50e130]:
+              - generic [ref=f50e131]: "01"
+              - heading "Modular Kitchens" [level=3] [ref=f50e132]
+            - paragraph [ref=f50e137]: Tailored to your daily workflow and aesthetic preferences.
+          - generic [ref=f50e138] [cursor=pointer]:
+            - generic [ref=f50e140]:
+              - generic [ref=f50e141]: "02"
+              - heading "Wardrobes & Storage" [level=3] [ref=f50e142]
+            - generic:
+              - paragraph: Maximized space utility with premium finishes.
+          - generic [ref=f50e146] [cursor=pointer]:
+            - generic [ref=f50e148]:
+              - generic [ref=f50e149]: "03"
+              - heading "Living Spaces" [level=3] [ref=f50e150]
+            - generic:
+              - paragraph: Elegant living rooms and custom TV units.
+          - generic [ref=f50e154] [cursor=pointer]:
+            - generic [ref=f50e156]:
+              - generic [ref=f50e157]: "04"
+              - heading "Custom Carpentry" [level=3] [ref=f50e158]
+            - generic:
+              - paragraph: Bespoke furniture and built-in joinery.
+          - generic [ref=f50e162] [cursor=pointer]:
+            - generic [ref=f50e164]:
+              - generic [ref=f50e165]: "05"
+              - heading "Full Home Interiors" [level=3] [ref=f50e166]
+            - generic:
+              - paragraph: End-to-end interior execution for your entire home.
+          - generic [ref=f50e170] [cursor=pointer]:
+            - generic [ref=f50e172]:
+              - generic [ref=f50e173]: "06"
+              - heading "Commercial Interiors" [level=3] [ref=f50e174]
+            - generic:
+              - paragraph: Offices, retail spaces, and specialized environments.
+      - generic [ref=f50e179]:
+        - img "Modular Kitchens" [ref=f50e181]
+        - img "Wardrobes & Storage" [ref=f50e183]
+        - img "Living Spaces" [ref=f50e185]
+        - img "Custom Carpentry" [ref=f50e187]
+        - img "Full Home Interiors" [ref=f50e189]
+        - img "Commercial Interiors" [ref=f50e191]
+    - generic [ref=f50e192]:
+      - heading "A closer look." [level=2] [ref=f50e194]
+      - generic [ref=f50e196]:
+        - generic [ref=f50e197]:
+          - img "Kitchen Details" [ref=f50e199]
+          - generic [ref=f50e201]: Kitchen Details
+        - generic [ref=f50e202]:
+          - img "Living Layout" [ref=f50e204]
+          - generic [ref=f50e206]: Living Layout
+        - generic [ref=f50e207]:
+          - img "Storage" [ref=f50e209]
+          - generic [ref=f50e211]: Storage
+        - generic [ref=f50e212]:
+          - img "Wardrobe Finish" [ref=f50e214]
+          - generic [ref=f50e216]: Wardrobe Finish
+        - generic [ref=f50e217]:
+          - img "Material Texture" [ref=f50e219]
+          - generic [ref=f50e221]: Material Texture
+        - generic [ref=f50e222]:
+          - img "Lighting" [ref=f50e224]
+          - generic [ref=f50e226]: Lighting
+    - generic [ref=f50e228]:
+      - generic [ref=f50e229]:
+        - generic [ref=f50e230]:
+          - generic [ref=f50e231]: "4.9"
+          - generic [ref=f50e232]: / 5
+        - generic [ref=f50e233]: Google Rating
+        - generic [ref=f50e234]: 84 Verified Reviews
+        - generic [ref=f50e235]:
+          - button [ref=f50e236]
+          - button [ref=f50e239]
+      - generic [ref=f50e243]:
+        - generic [ref=f50e244]: “
+        - heading "Extreme attention to detail and high quality finish." [level=3] [ref=f50e245]
+        - generic [ref=f50e246]:
+          - generic [ref=f50e247]: Vinoth Kumar
+          - generic [ref=f50e248]: Google Review
+    - generic [ref=f50e249]:
+      - generic [ref=f50e250]:
+        - generic [ref=f50e251]:
+          - generic [ref=f50e252]:
+            - heading "Project Gallery" [level=2] [ref=f50e253]
+            - paragraph [ref=f50e254]: A selection of our completed residential and commercial projects.
+          - generic [ref=f50e255]:
+            - button "ALL" [ref=f50e256]
+            - button "KITCHENS" [ref=f50e257]
+            - button "WARDROBES" [ref=f50e258]
+            - button "LIVING" [ref=f50e259]
+        - generic [ref=f50e260]:
+          - generic [ref=f50e261] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e262]
+            - generic: View Full Image ↗
+          - generic [ref=f50e263] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e264]
+            - generic: View Full Image ↗
+          - generic [ref=f50e265] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e266]
+            - generic: View Full Image ↗
+          - generic [ref=f50e267] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e268]
+            - generic: View Full Image ↗
+          - generic [ref=f50e269] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e270]
+            - generic: View Full Image ↗
+          - generic [ref=f50e271] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e272]
+            - generic: View Full Image ↗
+          - generic [ref=f50e273] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e274]
+            - generic: View Full Image ↗
+          - generic [ref=f50e275] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e276]
+            - generic: View Full Image ↗
+          - generic [ref=f50e277] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e278]
+            - generic: View Full Image ↗
+          - generic [ref=f50e279] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e280]
+            - generic: View Full Image ↗
+          - generic [ref=f50e281] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e282]
+            - generic: View Full Image ↗
+          - generic [ref=f50e283] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e284]
+            - generic: View Full Image ↗
+          - generic [ref=f50e285] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e286]
+            - generic: View Full Image ↗
+          - generic [ref=f50e287] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e288]
+            - generic: View Full Image ↗
+          - generic [ref=f50e289] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e290]
+            - generic: View Full Image ↗
+          - generic [ref=f50e291] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e292]
+            - generic: View Full Image ↗
+          - generic [ref=f50e293] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e294]
+            - generic: View Full Image ↗
+          - generic [ref=f50e295] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e296]
+            - generic: View Full Image ↗
+          - generic [ref=f50e297] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e298]
+            - generic: View Full Image ↗
+          - generic [ref=f50e299] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e300]
+            - generic: View Full Image ↗
+          - generic [ref=f50e301] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e302]
+            - generic: View Full Image ↗
+          - generic [ref=f50e303] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e304]
+            - generic: View Full Image ↗
+          - generic [ref=f50e305] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e306]
+            - generic: View Full Image ↗
+          - generic [ref=f50e307] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e308]
+            - generic: View Full Image ↗
+          - generic [ref=f50e309] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e310]
+            - generic: View Full Image ↗
+          - generic [ref=f50e311] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e312]
+            - generic: View Full Image ↗
+          - generic [ref=f50e313] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e314]
+            - generic: View Full Image ↗
+          - generic [ref=f50e315] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e316]
+            - generic: View Full Image ↗
+          - generic [ref=f50e317] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e318]
+            - generic: View Full Image ↗
+          - generic [ref=f50e319] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e320]
+            - generic: View Full Image ↗
+          - generic [ref=f50e321] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e322]
+            - generic: View Full Image ↗
+          - generic [ref=f50e323] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e324]
+            - generic: View Full Image ↗
+          - generic [ref=f50e325] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e326]
+            - generic: View Full Image ↗
+          - generic [ref=f50e327] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e328]
+            - generic: View Full Image ↗
+          - generic [ref=f50e329] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e330]
+            - generic: View Full Image ↗
+          - generic [ref=f50e331] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e332]
+            - generic: View Full Image ↗
+          - generic [ref=f50e333] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e334]
+            - generic: View Full Image ↗
+          - generic [ref=f50e335] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e336]
+            - generic: View Full Image ↗
+          - generic [ref=f50e337] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e338]
+            - generic: View Full Image ↗
+          - generic [ref=f50e339] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e340]
+            - generic: View Full Image ↗
+          - generic [ref=f50e341] [cursor=pointer]:
+            - img "Project Gallery" [ref=f50e342]
+            - generic: View Full Image ↗
+      - generic:
+        - button
+    - generic [ref=f50e343]:
+      - generic [ref=f50e344]:
+        - generic [ref=f50e345]:
+          - heading "Let's make your space yours." [level=2] [ref=f50e346]: Let's makeyour spaceyours.
+          - paragraph [ref=f50e347]: Tell us what you're planning. We bring precision and passion to every project.
+          - link "Start a Project →" [ref=f50e349] [cursor=pointer]:
+            - /url: mailto:contact@rgsinteriors.com
+            - text: Start a Project
+            - generic [ref=f50e350]: →
+        - generic [ref=f50e351]:
+          - generic [ref=f50e352]:
+            - heading "Call" [level=4] [ref=f50e353]
+            - link "+91 96888 36074" [ref=f50e354] [cursor=pointer]:
+              - /url: tel:+919688836074
+          - generic [ref=f50e355]:
+            - heading "Visit" [level=4] [ref=f50e356]
+            - generic [ref=f50e357]: 312, Singanallur,Nehru Park Road,Coimbatore 641017
+      - generic: RGS INTERIORS
+      - generic [ref=f50e358]:
+        - paragraph [ref=f50e359]: © 2026 RGS Interiors.
+        - generic [ref=f50e360]:
+          - link "Instagram" [ref=f50e361] [cursor=pointer]:
+            - /url: "#"
+          - link "Facebook" [ref=f50e362] [cursor=pointer]:
+            - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=f50e368] [cursor=pointer]
